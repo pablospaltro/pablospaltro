@@ -3,7 +3,7 @@
 ‎ 
 ---
 
-Hi, there! I'm Pablo, a musician and a developer in progress.
+Hi, there! I'm Pablo, a musician and developer in progress.
 
 Currently enrolled in Java Spring Boot and QC Automation courses. 
 
