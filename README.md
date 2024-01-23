@@ -5,10 +5,6 @@
 
 Hi, there! I'm Pablo, a Developer and QA Automation Tester in progress.
 
-✔ Diploma Course in Web App Development with Spring Boot 📍 UTN Mar del Plata 
-
-✔ Diploma Course in Quality Control + Automation 📍 Egg, Globant University  
-
 I'm constantly exploring new ideas, with self-taught enthusiasm and the supportive helping hand of friends and colleagues.
 
 Open to working on and contributing to new projects! 🚀
