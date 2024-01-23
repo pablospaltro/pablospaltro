@@ -5,8 +5,6 @@
 
 Hi, there! I'm Pablo, a Developer and QA Automation Tester in progress.
 
-I'm constantly exploring new ideas, with self-taught enthusiasm and the supportive helping hand of friends and colleagues.
-
 Open to working on and contributing to new projects! 🚀
 
 ---
